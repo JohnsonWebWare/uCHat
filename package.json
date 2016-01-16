@@ -4,7 +4,8 @@
   "description": "Universal chat application",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "node_modules/.bin/mocha test",
+    "cover": "istanbul cover _mocha -- -R spec"
   },
   "repository": {
     "type": "git",
