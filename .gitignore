@@ -33,6 +33,7 @@ node_modules
 # Optional REPL history
 .node_repl_history
 
-config/*
-!config/example.json
-!config/index.js
+/config
+!/config/example.json
+!/config/index.js
+/coverage
