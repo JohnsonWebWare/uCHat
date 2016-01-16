@@ -18,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/JohnsonWebWare/uCHat/issues"
   },
-  "homepage": "https://github.com/JohnsonWebWare/uCHat#readme"
+  "homepage": "https://github.com/JohnsonWebWare/uCHat#readme",
+  "dependencies": {
+    "socket.io": "^1.4.4"
+  }
 }
