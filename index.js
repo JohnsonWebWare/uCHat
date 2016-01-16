@@ -3,4 +3,4 @@
 global.lib = __dirname + '/lib';
 global.config = require('./config');
 
-var app = require('./init');
+var app = require(global.lib + '/init');
