@@ -1,0 +1,22 @@
+{
+  "name": "uchat",
+  "version": "1.0.0",
+  "description": "Universal chat application",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JohnsonWebWare/uCHat.git"
+  },
+  "keywords": [
+    "chat"
+  ],
+  "author": "Alexander Johnson <alex@johnsonwebware.com> (http://johnsonwebware.com)",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/JohnsonWebWare/uCHat/issues"
+  },
+  "homepage": "https://github.com/JohnsonWebWare/uCHat#readme"
+}
